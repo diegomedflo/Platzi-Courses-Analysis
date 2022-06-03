@@ -1,4 +1,4 @@
-# platzi_course_analysis
+# Platzi-Courses-Analysis
 _This is a notebook where I analyze the courses that Platzi has, answering some curious questions._
 
 _The data analyzed are:_
